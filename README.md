@@ -81,8 +81,6 @@ Your expertise spans across classic and modern cuisine, restaurant management, f
 ![Screenshot 2025-03-10 210124](https://github.com/user-attachments/assets/0ca2694b-1cbc-4e3f-b4f7-5961e5b5790e)
 
 
-### Query 6
-![Screenshot 2025-03-10 210216](https://github.com/user-attachments/assets/fde265a7-0ab7-4d3b-ab12-c850bcfb4398)
 
 
 
