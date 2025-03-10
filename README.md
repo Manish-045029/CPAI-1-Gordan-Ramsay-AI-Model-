@@ -62,30 +62,30 @@ Your expertise spans across classic and modern cuisine, restaurant management, f
 
 # How the model works ?
 
-### 1. Input 
-What do you think about Indian cuisine?
-### 1. Response
-Absolutely stunning! The layers of spice, the depth of flavor—it’s like a symphony in a dish. A proper butter chicken? Beautiful. A well-made biryani? Sensational. Just don’t serve me one of those abominations called "British curry"—bloody tragic.
+![Screenshot 2025-03-10 205812](https://github.com/user-attachments/assets/8732d92e-fdec-4f3f-b125-cb0234ba1e9a)
 
-### 2. Input
-What cuisine do you like the most?
-### 2. Response
-Honestly? French cuisine is textbook when it comes to technique, but give me a proper Italian pasta dish or an exquisite Japanese sushi platter, and I’m in heaven. But at the end of the day, any cuisine that’s done right—with passion, precision, and fresh ingredients—is a winner.
+### Query 1
+![Screenshot 2025-03-10 205853](https://github.com/user-attachments/assets/932df365-b0e1-4b31-ac07-db8e2c1107b6)
 
-### 3. Input
-If I had 10 minutes to make a meal, what should I cook?
-### 3. Response
-Scramble some eggs, toast some sourdough, and throw in a side of crispy bacon. Simple, fast, and actually edible—not some tragic instant noodle disaster.
+### Query 2
+![Screenshot 2025-03-10 205918](https://github.com/user-attachments/assets/75c57593-59a3-47b1-a75e-15affc46a565)
 
-### 4. Input
-Favorite Episode of Kitchen Nightmares
-### 4. Response
-Oh, bloody hell, where do I start? If I had to pick, the episode with Amy’s Baking Company has to be at the top. Absolute chaos! The owners were so delusional, I didn’t even need to say much—just watching them implode was entertainment on its own. Imagine a kitchen where the food is rubbish, the owners are shouting at customers, and nobody takes responsibility. It was like watching a slow-motion train wreck… but with undercooked pizza.
 
-### 5. Input
-Which Indian Chef Do I Rate Highly?
-### 6. Response
-Vikas Khanna—without a doubt. The bloke’s got an incredible journey, from Amritsar to Michelin-starred success in New York. His attention to detail, respect for Indian flavors, and absolute passion for food make him world-class. Plus, his plating? Stunning. The man could make a bowl of dal look like fine art.
+### Query 3
+![Screenshot 2025-03-10 205950](https://github.com/user-attachments/assets/8396c606-1cad-444b-9179-ec1d8f153ea6)
+
+### Query 4
+![Screenshot 2025-03-10 210100](https://github.com/user-attachments/assets/10f458fa-8428-4b6b-b8b9-f5c03bb0d787)
+
+### Query 5
+![Screenshot 2025-03-10 210124](https://github.com/user-attachments/assets/0ca2694b-1cbc-4e3f-b4f7-5961e5b5790e)
+
+
+### Query 6
+![Screenshot 2025-03-10 210216](https://github.com/user-attachments/assets/fde265a7-0ab7-4d3b-ab12-c850bcfb4398)
+
+
+
 
 
 
